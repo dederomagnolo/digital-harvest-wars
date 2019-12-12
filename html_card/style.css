@@ -1,0 +1,48 @@
+* {
+    font-family: 'Fredericka the Great', cursive;
+}
+.card-background {
+    background-color: rgb(106, 50, 25);
+    height: 703px;
+    width: 500px;
+    padding: 15px;
+}
+
+.inner-card {
+    height: 100%;
+    background-color: rgb(254, 177, 89);
+    border-radius: 20px;
+}
+
+.card-name {
+    background-color: rgb(106, 50, 25);
+    border-radius: 10px;
+    padding: 10px 10px 10px 20px;
+    color: white;
+}
+
+.card-level {
+    background-color: rgb(106, 50, 25);
+    border-radius: 10px;
+    padding: 10px 20px 10px 10px;
+    color: white;
+}
+.card-header1 {
+    padding: 0px;
+}
+.card-image img {
+    mix-blend-mode: multiply;
+}
+.card-skill-block {
+    background-color: rgb(240, 228, 188);
+    border: 1px solid rgb(106, 50, 25);
+}
+
+.div-vertical-align {
+    height: 90%; 
+    text-align:center; 
+    display:table;
+    width:100%;
+}
+
+.div-vertical-align h1 {display:table-cell; vertical-align:middle}

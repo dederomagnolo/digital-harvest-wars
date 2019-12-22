@@ -1,0 +1,14 @@
+{
+	id: 1,
+	name: "Melancólica",
+	type: "fruit",
+	season: "summer",
+	cardLvl: 1,
+	lifePoints: 3,
+	waterPoints: 0,
+	waterCost:
+	movePoints:,
+	description: "",
+	skill:,
+	collection:,
+} 
